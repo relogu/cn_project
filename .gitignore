@@ -1,0 +1,8 @@
+# excluding data
+data/*
+
+# excluding notebooks' checkpoints
+*.ipynb_checkpoints*
+
+# excluding papers used as ref
+*.pdf
