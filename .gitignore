@@ -1,5 +1,6 @@
 # excluding data
 data/*
+!data/README.md
 
 # excluding notebooks' checkpoints
 *.ipynb_checkpoints*
