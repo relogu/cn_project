@@ -11,3 +11,5 @@ cd data
 wget https://snap.stanford.edu/data/soc-redditHyperlinks-body.tsv
 wget https://snap.stanford.edu/data/soc-redditHyperlinks-title.tsv
 ```
+
+TODO: add explanations for Media Cloud and its extractions
