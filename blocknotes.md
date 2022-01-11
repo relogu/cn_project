@@ -28,4 +28,13 @@ In order to create a conda environment from this file open a terminal and use th
 conda create --name cn-env --file cn-env.txt
 ```
 
-This environment should weight ~11GB on disk. Might be less.
+**NetworkX** library ust be installed via `pip`:
+
+```bash
+conda activate cn-env
+pip install networkx
+```
+
+There might be some other packages to install via `pip`.
+
+TODO: Media Cloud etc..
