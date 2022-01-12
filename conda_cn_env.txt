@@ -76,6 +76,7 @@ https://conda.anaconda.org/conda-forge/linux-64/libxml2-2.9.12-h72842e0_0.tar.bz
 https://conda.anaconda.org/conda-forge/linux-64/mysql-libs-8.0.27-hfa10184_3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.37.0-h9cd32fc_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.11-h27826a3_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/tmux-3.1-h1c4e50f_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/brotli-1.0.9-h7f98852_6.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/dbus-1.13.6-h5008d03_3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/freetype-2.10.4-h0708190_1.tar.bz2
