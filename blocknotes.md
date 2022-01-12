@@ -28,19 +28,12 @@ This list has been generated using:
 conda list --explicit > conda_cn_env.txt
 ```
 
-File [pip_cn_env.txt](https://github.com/relogu/cn_project/blob/master/pip_cn_env.txt) provides the list of the packages to install via `pip` to complete the conda environment.
-This list has been generated using:
-
-```bash
-pip freeze > pip_cn_env.txt
-```
-
 In order to create a conda environment from this file open a terminal and use the command:
 
 ```bash
-conda create --name cn-env --file conda_cn_env.txt #; pip install -r pip_cn_env.txt ## pip is no more needed actually
+conda create --name cn-env --file conda_cn_env.txt
 ```
 
-The whole environment should take ~11GB disk space.
+The whole environment should take ~2.2GB disk space.
 
 TODO: Media Cloud etc..
