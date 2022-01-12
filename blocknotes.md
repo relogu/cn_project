@@ -41,4 +41,6 @@ In order to create a conda environment from this file open a terminal and use th
 conda create --name cn-env --file conda_cn_env.txt; pip install -r pip_cn_env.txt 
 ```
 
+The whole environment should take ~11GB disk space.
+
 TODO: Media Cloud etc..
