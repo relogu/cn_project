@@ -38,7 +38,7 @@ pip freeze > pip_cn_env.txt
 In order to create a conda environment from this file open a terminal and use the command:
 
 ```bash
-conda create --name cn-env --file conda_cn_env.txt; pip install -r pip_cn_env.txt 
+conda create --name cn-env --file conda_cn_env.txt #; pip install -r pip_cn_env.txt ## pip is no more needed actually
 ```
 
 The whole environment should take ~11GB disk space.
