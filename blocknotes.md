@@ -37,3 +37,7 @@ conda create --name cn-env --file conda_cn_env.txt
 The whole environment should take ~2.2GB disk space.
 
 TODO: Media Cloud etc..
+[Media Cloud Project](https://mediacloud.org/)
+[Media Cloud Explorer](https://explorer.mediacloud.org/#/home)
+[Media Cloud API Tutorial](https://github.com/mediacloud/api-tutorial-notebooks)
+[Media Cloud API specs](https://github.com/mediacloud/backend/blob/master/doc/api_2_0_spec/api_2_0_spec.md)
