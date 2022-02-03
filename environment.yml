@@ -245,4 +245,6 @@ dependencies:
   - zipp=3.7.0=pyhd8ed1ab_0
   - zlib=1.2.11=h36c2ea0_1013
   - zstd=1.5.1=ha95c52a_0
+  - pip:
+    - mediacloud==3.12.5
 prefix: /home/relogu/anaconda3/envs/cn-env
