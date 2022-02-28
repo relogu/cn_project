@@ -1,6 +1,8 @@
 # excluding data
 data/*
 !data/README.md
+!data/world_russia*.7z
+!data/world_norway*.7z
 
 # excluding notebooks' checkpoints
 *.ipynb_checkpoints*
